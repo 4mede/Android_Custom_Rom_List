@@ -7,6 +7,7 @@ AlphaDroid  | https://github.com/AlphaDroid-Project
 ArfoxOS | https://github.com/arfoxos
 ArrowOS-Extended | https://github.com/ArrowOS-Ext
 AxionAOSP | https://github.com/AxionAOSP
+BaikalOS | https://github.com/baikalos
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissROMs  | https://github.com/BlissRoms
 CarbonROM | https://github.com/carbonrom
