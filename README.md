@@ -1,4 +1,3 @@
-## Actively updated custom ROMs
 ROM Name | ROM Organization
 -------:|:-------------------------
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
@@ -52,51 +51,3 @@ The Pixel Project  |https://github.com/The-Pixel-Project
 The XPerience Project  | https://github.com/TheXPerienceProject
 WitAqua | https://github.com/WitAqua
 Yet another AOSP Project | https://github.com/YAAP
-
-## Less active ROMs
-ROM Name | ROM Organization
--------:|:-------------------------
-AmogOS  | https://github.com/AmogOS-Rom
-amyROM  | https://github.com/amyROM
-AospEnhanced  | https://github.com/AospEnhanced
-ApexOS  | https://github.com/ApexOS
-ArcLine OS  | https://github.com/TeamArcLine
-Awaken Xtended  | https://github.com/awaken-xt
-bananadroid  | https://github.com/bananadroid
-BlackDuckOS | https://github.com/BlackDuckOS
-CarbonROM  | https://github.com/CarbonROM
-Cavvoh OS | https://github.com/Cavvoh-OS
-CelestialDroid  | https://github.com/CelestialDroid
-CherishOS  | https://github.com/CherishOS
-Cipher OS  | https://github.com/CipherOS
-ColtOS (Enigma)  | https://github.com/Colt-Enigma
-EthereumPhone  | https://github.com/EthereumPhone
-euclidTeam  | https://github.com/euclidTeam
-exTHmUI  | https://github.com/exthmui
-GXCUI  | https://github.com/GXCUI-AOSP
-KuroNekoDroid  | https://github.com/KuroNekoDroid
-KusumaOS  | https://github.com/KusumaOS
-NekoPixel  | https://github.com/NekoPixel
-NexOS | https://github.com/Project-NexOS
-OKcarOS  | https://github.com/okcar-os
-PenguinOS  | https://github.com/Project-PenguinOS
-PixelBlaster  | https://github.com/PixelBlaster-OS
-PixelBuilds-Staging  | https://github.com/PixelBuilds-Staging
-PixelExtended ROM  | https://github.com/PixelExtended
-PixelExperience  | https://github.com/PixelExperience
-PixelMagic  | https://github.com/PixelMagic-OS
-PixelOS-Fourteen  | https://github.com/PixelOS-Fourteen
-PixelOS-Plus  | https://github.com/PixelOSPlus
-Project Awaken  | https://github.com/Project-Awaken
-Project Elixir  | https://github.com/Project-Elixir
-ProjectEverest  | https://github.com/ProjectEverest
-Project-Kizashi  | https://github.com/Project-Kizashi
-Project Pear OS  | https://github.com/ProjectPearOS
-ProectWings  | https://github.com/ProjectWings
-Project-Zephyrus  | https://github.com/Project-Zephyrus
-ReloadedOS  | https://github.com/ReloadedOS
-ScoopDroid  | https://github.com/ScoopDroid
-SOSP-OS  | https://github.com/SOSP-OS
-StandartOS Project  | https://github.com/StandartOS
-Syberia Project  | https://github.com/syberia-project
-UltimateOS  | https://github.com/UltimateOS
