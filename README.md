@@ -6,6 +6,7 @@ AfterlifeOS  | https://github.com/AfterlifeOS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
 ArfoxOS | https://github.com/arfoxos
+ArrowOS-Extended | https://github.com/ArrowOS-Ext
 AxionAOSP | https://github.com/AxionAOSP
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissROMs  | https://github.com/BlissRoms
