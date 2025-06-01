@@ -12,7 +12,6 @@ Black Iron Project  | https://github.com/Black-Iron-Project
 BlissROMs  | https://github.com/BlissRoms
 c0smic-Lab | https://github.com/c0smic-Lab
 CalyxOS  | https://github.com/calyxos
-ClownUI  | https://github.com/ClownUI
 crDroid  | https://github.com/crdroidandroid
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
 DroidX-UI  | https://github.com/DroidX-UI
