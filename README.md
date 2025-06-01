@@ -1,92 +1,57 @@
 ## Actively updated custom ROMs
 ROM Name | ROM Organization
 -------:|:-------------------------
-10X OS  | https://github.com/TenX-OS
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AfterlifeOS  | https://github.com/AfterlifeOS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
-Astral OS Project | https://github.com/AstralOS-AOSP
 ArfoxOS | https://github.com/arfoxos
 AxionAOSP | https://github.com/AxionAOSP
-AuroraDroid  | https://github.com/AuroraDroid
 Black Iron Project  | https://github.com/Black-Iron-Project
-BlissOS  | https://github.com/BlissOS
 BlissROMs  | https://github.com/BlissRoms
 c0smic-Lab | https://github.com/c0smic-Lab
 CalyxOS  | https://github.com/calyxos
 ClownUI  | https://github.com/ClownUI
 crDroid  | https://github.com/crdroidandroid
-crDroid X  | https://github.com/crdroidx
-Crooked Android | https://github.com/CrookedAndroid
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
 DroidX-UI  | https://github.com/DroidX-UI
 Ethereal-OS  | https://github.com/Ethereal-OS
-EunoiaOS  | https://github.com/EunoiaOS
-EverestOS-AOSP | https://github.com/EverestOS-AOSP
 Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
-exTHmUI-Next  | https://github.com/exthmui-next
-FeatherROM | https://github.com/FeatherROM
-FloraOS | https://github.com/FloraOS
-FortuneOS  | https://github.com/fortuneOS-AOSP
-FortuneOS-CAF | https://github.com/FortuneOS-CAF
 GenesisOS  | https://github.com/GenesisOS
 GrapheneOS  | https://github.com/GrapheneOS
-Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
 hentaiOS  | https://github.com/hentaiOS
-HorizonDroid  | https://github.com/HorizonDroidLab
+HorizonDroid  | https://github.com/HorizonV2
 Komodo OS | https://github.com/Komodo-OS
-LeafOS-Project  | https://github.com/LeafOS-Project
 LineageOS  | https://github.com/LineageOS
+LineageOS-Ext | https://github.com/Los-Ext
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
-NeutronOS-CLO  | https://github.com/NeutronOS-CLO
-Nitrogen Project  | https://github.com/nitrogen-project
 omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-Project
 Paranoid (AOSPA)  | https://github.com/AOSPA
-Paranoid-FE | https://github.com/Paranoid-FE
-Phoenix OS | https://github.com/Phoenix-rom
 PixelBuilds  | https://github.com/PixelBuildsROM
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
 PixysOS  | https://github.com/PixysOS
 Project 404  | https://github.com/P-404
-Project Blaze  | https://github.com/ProjectBlaze
-Project Kaleidoscope | https://github.com/Project-Kaleidoscope
 Project Flare | https://github.com/Project-Flare
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
-Project-Pixelstar | https://github.com/Project-Pixelstar-Fifteen
 Project Pixelage | https://github.com/ProjectPixelage/
-Project Sakura  | https://github.com/ProjectSakura
-Project Zenith  | https://github.com/ProjectZenithAOSP
-Pure Pixel | https://github.com/Pure-Pixel
 RisingOS Revived  | https://github.com/RisingOS-Revived
-RisingOS OSS | https://github.com/RisingOS-OSS
-RyuUI | https://github.com/RyuUI-Org
-RvOS-AOSP | https://github.com/RvOS-AOSP
-RvOS-CLO | https://github.com/RvOS-CLO
-Scandium  | https://github.com/ScandiumOS
 SigmaDroid-Project  | https://github.com/SigmaDroid-Project
-SkylineUI-Reborn  | https://github.com/SkylineUI-Reborn
-SomethingOS  | https://github.com/SomethingOS
-StagOS  | https://github.com/StagOS
 Statix  | https://github.com/StatiXOS
 Superior OS  | https://github.com/SuperiorOS
-tequilaOS  | https://github.com/tequilaOS
-The AtomX Project | https://github.com/AtomXCLO
 The Clover Project | https://github.com/The-Clover-Project
 The Parasite Project  | https://github.com/TheParasiteProject
 The Pixel Project  |https://github.com/The-Pixel-Project
-The Styx Project  | https://github.com/StyxProject
 The XPerience Project  | https://github.com/TheXPerienceProject
-TPP-Labs | https://github.com/TPP-Labs
 WitAqua | https://github.com/WitAqua
+Yet another AOSP Project | https://github.com/YAAP
 
 ## Less active ROMs
 ROM Name | ROM Organization
