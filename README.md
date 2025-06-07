@@ -1,5 +1,6 @@
 ROM Name | ROM Organization
 -------:|:-------------------------
+2by2 project | https://github.com/2by2-Project
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AfterlifeOS  | https://github.com/AfterlifeOS
 AICP  | https://github.com/AICP
@@ -49,5 +50,6 @@ The Clover Project | https://github.com/The-Clover-Project
 The Parasite Project  | https://github.com/TheParasiteProject
 The Pixel Project  |https://github.com/The-Pixel-Project
 The XPerience Project  | https://github.com/TheXPerienceProject
+VoltageOS | https://github.com/VoltageOS
 WitAqua | https://github.com/WitAqua
 Yet another AOSP Project | https://github.com/YAAP
