@@ -37,7 +37,6 @@ PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
 PixysOS  | https://github.com/PixysOS
 Project 404  | https://github.com/P-404
-Project Flare | https://github.com/Project-Flare
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
