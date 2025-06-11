@@ -23,7 +23,6 @@ GrapheneOS  | https://github.com/GrapheneOS
 halogenOS  | https://github.com/halogenOS
 hentaiOS  | https://github.com/hentaiOS
 HorizonDroid  | https://github.com/HorizonV2
-Komodo OS | https://github.com/Komodo-OS
 LineageOS  | https://github.com/LineageOS
 LineageOS-Ext | https://github.com/Los-Ext
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
