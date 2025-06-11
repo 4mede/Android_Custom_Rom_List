@@ -42,7 +42,6 @@ Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project Pixelage | https://github.com/ProjectPixelage/
 RisingOS Revived  | https://github.com/RisingOS-Revived
-SigmaDroid-Project  | https://github.com/SigmaDroid-Project
 Statix  | https://github.com/StatiXOS
 Superior OS  | https://github.com/SuperiorOS
 The Clover Project | https://github.com/The-Clover-Project
