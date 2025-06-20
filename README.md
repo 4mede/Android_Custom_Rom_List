@@ -43,6 +43,7 @@ PixelBuilds  | https://github.com/PixelBuildsROM
 PixelExperience LEGACY-edition | https://github.com/PixelExperience-LEGACY-edition
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
+POSP | https://github.com/PotatoProject
 Project 404  | https://github.com/P-404
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
