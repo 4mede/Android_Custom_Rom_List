@@ -12,6 +12,7 @@ Black Iron Project  | https://github.com/Black-Iron-Project
 BlissROMs  | https://github.com/BlissRoms
 CarbonROM | https://github.com/carbonrom
 carbonROM-experimental | https://github.com/carbonROM-Experimental
+Cherish OS | https://github.com/CherishOS
 c0smic-Lab | https://github.com/c0smic-Lab
 CalyxOS  | https://github.com/calyxos
 crDroid  | https://github.com/crdroidandroid
