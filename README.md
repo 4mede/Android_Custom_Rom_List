@@ -20,15 +20,17 @@ crDroid-Revived | https://github.com/crDroid-Revived
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
 droid-legacy | https://github.com/droid-legacy
 DroidX-UI  | https://github.com/DroidX-UI
+eFoundation | https://gitlab.e.foundation
 Ethereal-OS  | https://github.com/Ethereal-OS
 Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
 GemifyOS | https://github.com/GemifyOS
 GenesisOS  | https://github.com/GenesisOS
 GrapheneOS  | https://github.com/GrapheneOS
-halogenOS  | https://github.com/halogenOS
+halogenOS  | https://git.halogenos.org
 hentaiOS  | https://github.com/hentaiOS
 HorizonDroid  | https://github.com/HorizonV2
+iodéOS | https://gitlab.iode.tech
 LessAOSP | https://github.com/LessAOSP
 LineageOS  | https://github.com/LineageOS
 LineageOS-Ext | https://github.com/Los-Ext
