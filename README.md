@@ -9,10 +9,14 @@ ArrowOS-Extended | https://github.com/ArrowOS-Ext
 AxionAOSP | https://github.com/AxionAOSP
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissROMs  | https://github.com/BlissRoms
+CarbonROM | https://github.com/carbonrom
+carbonROM-experimental | https://github.com/carbonROM-Experimental
 c0smic-Lab | https://github.com/c0smic-Lab
 CalyxOS  | https://github.com/calyxos
 crDroid  | https://github.com/crdroidandroid
+crDroid-Revived | https://github.com/crDroid-Revived
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
+droid-legacy | https://github.com/droid-legacy
 DroidX-UI  | https://github.com/DroidX-UI
 Ethereal-OS  | https://github.com/Ethereal-OS
 Evervolv  | https://github.com/Evervolv
@@ -26,6 +30,7 @@ HorizonDroid  | https://github.com/HorizonV2
 LessAOSP | https://github.com/LessAOSP
 LineageOS  | https://github.com/LineageOS
 LineageOS-Ext | https://github.com/Los-Ext
+LineageOS-Revived | https://github.com/LineageOS-Revived
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
@@ -33,6 +38,7 @@ omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-Project
 Paranoid (AOSPA)  | https://github.com/AOSPA
 PixelBuilds  | https://github.com/PixelBuildsROM
+PixelExperience LEGACY-edition | https://github.com/PixelExperience-LEGACY-edition
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
 Project 404  | https://github.com/P-404
