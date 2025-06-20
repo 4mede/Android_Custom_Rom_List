@@ -32,7 +32,6 @@ Miku UI  | https://github.com/Miku-UI
 omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-Project
 Paranoid (AOSPA)  | https://github.com/AOSPA
-PenguinOS | https://github.com/Project-PenguinOS
 PixelBuilds  | https://github.com/PixelBuildsROM
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
