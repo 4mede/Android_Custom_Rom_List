@@ -28,7 +28,6 @@ GemifyOS | https://github.com/GemifyOS
 GenesisOS  | https://github.com/GenesisOS
 GrapheneOS  | https://github.com/GrapheneOS
 halogenOS  | https://git.halogenos.org
-hentaiOS  | https://github.com/hentaiOS
 HorizonDroid  | https://github.com/HorizonV2
 iodéOS | https://gitlab.iode.tech
 LessAOSP | https://github.com/LessAOSP
