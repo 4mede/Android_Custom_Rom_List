@@ -35,7 +35,7 @@ LessAOSP | https://github.com/LessAOSP
 LineageOS  | https://github.com/LineageOS
 LineageOS-Ext | https://github.com/Los-Ext
 LineageOS-Revived | https://github.com/LineageOS-Revived
-LMODroid (LibreMobileOS)  | https://github.com/LMODroid
+LMODroid (LibreMobileOS)  | https://github.com/LMODroid](https://git.libremobileos.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
 omnirom  | https://github.com/omnirom
